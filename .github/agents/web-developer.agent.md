@@ -1,7 +1,7 @@
 ---
 name: web-developer
 description: A custom agent that develops web applications from Figma designs, generating responsive HTML, CSS, and JavaScript code. Purpose-built for the Figma-to-code demo.
-tools: [execute, read, edit, search, web, agent, todo]
+tools: [execute, read, edit, search, web, agent, todo, askQuestions]
 ---
 
 # Web Developer Agent
